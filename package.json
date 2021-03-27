@@ -3,9 +3,9 @@
   "version": "0.9.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
-  "author": "BlackKnight683 <contact@blackknight683.tk>",
+  "author": "TheShashank <rs5795270@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/BlackKnight683/Broken-Disc",
+  "homepage": "https://github.com/theshashankk/Marshmello-Music",
   "repository": "github:BlackKnight683/Broken-Disc",
   "bugs": "https://github.com/BlackKnight683/Broken-Disc/issues",
   "engines": {
